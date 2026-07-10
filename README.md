@@ -1,3 +1,5 @@
+[![CI](https://github.com/Raphasha27/Network-Port-Scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/Raphasha27/Network-Port-Scanner/actions/workflows/ci.yml)
+
 <div align="center">
 
 # Network Port Scanner
