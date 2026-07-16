@@ -4,8 +4,11 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-*.egg
-.env
-venv/
 .venv/
+venv/
+.env
 *.log
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
